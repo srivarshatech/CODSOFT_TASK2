@@ -1,4 +1,4 @@
-# CODSOFT TASK 3 - Password Generator
+# CODSOFT TASK 2 - Password Generator
 
 ## Objective
 
